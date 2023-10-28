@@ -1,6 +1,3 @@
-# bestmeal
-coding ninja meal app
-
 This is a web application that allows users to search for meals, 
 view details about them, and save their favorite meals. 
 The app is built using HTML, CSS, and JavaScript, 
